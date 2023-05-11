@@ -1,0 +1,18 @@
+export const images: string[] = [
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOkWw7_e2YP2f-fs1kLDBdEkrC89x43zOCZxMVvvYCEA&usqp=CAU&ec=48665701",
+  "https://i.pinimg.com/736x/01/e6/c2/01e6c2368a9720c63ac7a981c4500302.jpg",
+  "https://images.theconversation.com/files/372855/original/file-20201203-15-zeu5wt.jpg?ixlib=rb-1.1.0&rect=947%2C1672%2C4164%2C2082&q=45&auto=format&w=1356&h=668&fit=crop",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0qtJ95BUyikcQSd7klp8II9EtGNyEd1qx1OOBggWMKg&usqp=CAU&ec=48665701",
+  "https://media.wired.com/photos/6340c6c2f93a1584dc57f353/master/w_2560%2Cc_limit/Tips-and-Apps-to-Help-Students-Gear-GettyImages-1132647177.jpg",
+  "https://students.ubc.ca/sites/students.ubc.ca/files/img_blog_20210306-DeskOrganization.22.jpg",
+  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSp7zvVdeIKKS1jUEVV0GKGlsdinRQEeDLSef5MCdvIUg&usqp=CAU&ec=48665701",
+  "https://global-uploads.webflow.com/5f035f109555c1787ed64988/61a55b3d92ec5d67ac36e987_bigstock-New-Reality-Lifestyle-And-Peo-395218316.jpg",
+  "https://www.timeshighereducation.com/student/sites/default/files/styles/default/public/chemistry.jpg?itok=OMd9Of5b",
+  "https://d2jyir0m79gs60.cloudfront.net/major/images/study-zoology.jpg",
+  "https://qph.cf2.quoracdn.net/main-qimg-791fea747d57841e410880264f4cd965-lq",
+  "https://www.collegevaluesonline.com/wp-content/uploads/2020/07/shutterstock_330464792-scaled-e1594419988370.jpg",
+  "https://www.usnews.com/dims4/USNEWS/661d5a6/2147483647/crop/2000x1334+0+0/resize/970x647/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Ff7%2F72%2F6336671f48d08f69004c616b874e%2F200427-stock.jpg",
+  "https://cloudinary.hbs.edu/hbsit/image/upload/s--Ps44R8Q6--/f_auto,c_fill,h_375,w_750,/v20200101/744FBBCB87A0BC857A73CD4C1658940A.jpg",
+  "https://majorsdata.arizona.edu/sites/default/files/styles/az_trellis_800w_scale/public/2020-09/UA_CALS_Nutritional%20Sciences-Nutrition%20Emphasis.jpg?itok=M_79SuXj",
+  "https://www.bridgeport.edu/news/wp-content/uploads/2021/11/Dental-Hygiene-Masthead.jpg",
+]
